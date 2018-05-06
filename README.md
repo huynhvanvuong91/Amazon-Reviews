@@ -7,7 +7,9 @@ reviews. Pick one of the &quot;small&quot; datasets that is a reasonable size fo
 Iterate by engineering new features, removing poor features, or tuning parameters. Repeat this process until you have five different versions of your classifier. Once you&#39;ve iterated, answer these questions to compare the performance of each:
 
   o Do any of your classifiers seem to overfit?
+  
   o Which seem to perform the best? Why (explain algorithmically over the dataset)?
+  
   o What features seemed to be most impactful to performance?
   
 (*) Notes: the project should follow the guideline as previous one
